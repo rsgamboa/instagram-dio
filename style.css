@@ -163,7 +163,10 @@ body {
     line-height: 20px;
   }
  
-
+  .copyright {
+    margin-bottom: 40px;
+    margin-top: 8px;
+}
 
  .copyright, #language-picker-select {
     text-decoration: none;
