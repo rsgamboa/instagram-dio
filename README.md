@@ -41,3 +41,7 @@ Recrie a interface do login do Instagram utilizando CSS3 com Flexbox.
 
 <br>
 
+## Screenshots
+
+![App](./img/print.png)
+
