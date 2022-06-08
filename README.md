@@ -1,10 +1,43 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+<p align="center">
+  <img src="img/logo-repositorio.png" />
+</p>
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
 
-### Os requisitos são:
+<p align="center">
+Interface Login Instagram
+</p>
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</p>
 
-## 🚀 Let's code! 🚀
+
+<br>
+
+## O Projeto
+Bootcamp DIO Santander Fullstack - Criando uma interface do login do Instagram.
+
+<br>
+
+## Desafio
+Recrie a interface do login do Instagram utilizando CSS3 com Flexbox.
+
+<br>
+
+## O que foi utilizado:
+  * HTML 5
+  * CSS 3
+  * JAVA SCRIPT
+
+<br>
+
+## Funcionalidades
+
+- Layout Padrão
+- CSS com Flexbox
+- Responsivo
+
+<br>
+
